@@ -105,6 +105,7 @@
         android:background="@color/colorPrimaryDark"
         android:textColor="@android:color/white"
         android:textAllCaps="true"
+        android:onClick="userLogin"
         android:layout_marginBottom="10dp" />
 
     <LinearLayout
